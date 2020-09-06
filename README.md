@@ -4,6 +4,10 @@
 
 ### Python
 
+| course | Note | Date |
+| ----- | ----- | ----- |
+| [Lesson 1 Hello Python](https://www.kaggle.com/colinmorris/hello-python) | [01 [Python] Syntax, Variables and Numbers](https://github.com/laiyenju/data-science-selfboost/blob/master/01-python-syntax-variable.md) | 2020-09-06 |
+
 ### Pandas
 
 ### Data Visualization
