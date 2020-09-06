@@ -1,4 +1,4 @@
-# [Python] Syntax, Variables and Numbers
+# 01 [Python] Syntax, Variables and Numbers
 
 ## Basics
 
