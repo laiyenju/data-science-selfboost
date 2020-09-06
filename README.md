@@ -1,4 +1,4 @@
-# Data Science Self-boost
+# Data Science Self-Boost
 
 ## Kaggle Courses
 
