@@ -1,5 +1,19 @@
 # Data Science Self-Boost
 
+## [IBM Data Science Professional Certificate on Coursera](https://www.coursera.org/professional-certificates/ibm-data-science)
+
+| 週次 | 項目 | 說明與筆記連結 |
+| --- | --- | ------------ |
+| Week 1 | What is Data Science? | 資料科學入門總覽 |
+| Week 2 | Tools for Data Science | 資料科學家常用工具包 |
+| Week 3 | Data Science Methodology | |
+| Week 4 | Python for Data Science and AI | 基本 Python 語法 |
+| Week 5 | Databases and SQL for Data Science | 基本 SQL 語法與資料庫概念 |
+| Week 6 | Data Analysis with Python | 數據分析用 Python |
+| week 7 | Data Visualization with Python | 資料視覺化用 Python |
+| Week 8 | Machine Learning with Python | 機器學習用 Python |
+| Week 9 | Applied Data Science Capstone | 系列課程期末作品 
+
 ## Kaggle Courses
 
 ### Python
