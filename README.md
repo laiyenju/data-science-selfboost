@@ -42,6 +42,14 @@
 - [Titanic](https://www.kaggle.com/c/titanic)
 - [Housing Price](https://www.kaggle.com/c/home-data-for-ml-course)
 
+## Applied Data Science with Python by University of Michigan on Coursera
+
+- Course 1: Introduction to Data Science in Python
+- Course 2: Applied Plotting, Charting & Data Representation in Python
+- Course 3: Applied Machine Learning in Python
+- Course 4: Applied Text Mining in Python
+- Course 5: Applied Social Network Analysis in Python
+
 ## Andrew Wu's Machine Learning online course
 
 - [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning)
