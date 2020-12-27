@@ -1,11 +1,14 @@
 # Python 環境建置
 
 ## 關於 Python 版本
+
 MacOS 內建 Python 版本為 2.xx，因此要記得使用 `python3` 或 `pip3` 執行指令。
 `python3 --version` 確認是否已安裝成功。
 
 ## 必要的虛擬環境作業
+
 兩種主要方式：
+
 1. Anaconda
 2. Virtualenv
 
