@@ -94,9 +94,9 @@
 
 - [SQL Cookbook](https://www.amazon.com/SQL-Cookbook-Solutions-Techniques-Developers-ebook/dp/B0026OR3KI)
 
-### Machine Learning
+### for Machine Learning
 
-- [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning)
+- [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning) - Free to Read
 - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/#:~:text=About,%2C%20with%20far%2Dreaching%20applications.&text=The%20book%20provides%20a%20theoretical,these%20principles%20into%20practical%20algorithms.) - Free to Read
 
 ### for Deep Learning
