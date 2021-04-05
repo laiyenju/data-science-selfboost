@@ -98,9 +98,12 @@
 
 - [Machine Learning Yearning](https://github.com/ajaymache/machine-learning-yearning) - Free to Read
 - [Understanding Machine Learning](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/#:~:text=About,%2C%20with%20far%2Dreaching%20applications.&text=The%20book%20provides%20a%20theoretical,these%20principles%20into%20practical%20algorithms.) - Free to Read
+- [Grokking Algorithms: An Illustrated Guide for Programmers and Other Curious People](https://www.amazon.com/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230/ref=pd_sim_1?pd_rd_w=vHfYH&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=1ZSYTW2FFRMXNVE6BFWD&pd_rd_r=97c925cf-4b7b-402b-9835-d62795d585c8&pd_rd_wg=8xO8m&pd_rd_i=1617292230&psc=1)
+- [Grokking Artificial Intelligence Algorithms: Understand and apply the core algorithms of deep learning and artificial intelligence in this friendly illustrated guide including exercises and examples](https://www.amazon.com/Grokking-Artificial-Intelligence-Algorithms-Hurbans/dp/161729618X/ref=pd_sim_2?pd_rd_w=vHfYH&pf_rd_p=dc435707-6f1f-492e-b80d-8408db56abc9&pf_rd_r=1ZSYTW2FFRMXNVE6BFWD&pd_rd_r=97c925cf-4b7b-402b-9835-d62795d585c8&pd_rd_wg=8xO8m&pd_rd_i=161729618X&psc=1)
 
 ### for Deep Learning
 
+- [Grokking Deep Learning](https://www.amazon.com/Grokking-Deep-Learning-Andrew-Trask/dp/1617293709)
 - [Deep Learning](https://www.deeplearningbook.org/) - Free to Read
 
 ### for Experiment Design and A/B Testing
